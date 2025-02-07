@@ -7,11 +7,11 @@ Hello is a user-friendly contact management app for Android, enabling users to e
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Screens](#screens)
 - [Technical Details](#technical-details)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -30,7 +30,7 @@ Hello is designed to help users efficiently manage their contacts. The app follo
 
 ---
 
-## Screenshots
+## Screens
 
 ### Home Screen
 ![Home Screen](#)
@@ -81,6 +81,4 @@ Pull requests are welcome. If you find any issues, feel free to open an issue.
 
 ---
 
-## License
-This project is licensed under the MIT License.
 
