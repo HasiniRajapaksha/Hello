@@ -1,18 +1,8 @@
-# The Contacts App
+# Hello
 
 ## Home | Learn | Roadmap | Contact | About
 
 ---
-
-## 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [Project Demo](#project-demo)
-- [Technical Talks about Project](#technical-talks-about-project)
-- [Source Code](#source-code)
-- [Conclusion](#conclusion)
-
----
-
 ## 📌 Project Overview
 We will be starting a new series where I'll create the Contacts App. The project is quite extensive and will take around six videos to complete.
 
