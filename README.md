@@ -68,7 +68,7 @@ Hello is designed to help users efficiently manage their contacts. The app follo
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hello-contact-app.git
+   git clone https://github.com/HasiniRajapaksha/Hello
    ```
 2. Open the project in Android Studio.
 3. Sync dependencies.
