@@ -1,6 +1,6 @@
 # Hello - Contact Management App
 
-A simple and intuitive contact management app that allows users to add, view, edit, and delete contacts. Built using Android XML, RecyclerView, and Activities/Fragments.
+Hello is a user-friendly contact management app for Android, enabling users to effortlessly add, edit, view, and delete contacts. Built with Jetpack Compose, MVVM architecture, and Room Database, it offers a smooth and modern experience.
 
 ---
 
