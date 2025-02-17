@@ -46,6 +46,14 @@ Hello is designed to help users efficiently manage their contacts. The app follo
 
 ---
 
+## 📸 **Screens**  
+
+|  Contact List Screen  | Add Contact Screen | Contact Details Screen | Edit Contact Screen |
+|-------------|----------------|--------------------|-------------------|
+![Image](https://github.com/user-attachments/assets/b76374f8-7d24-4643-b752-c065ac384f8b) | ![Image](https://github.com/user-attachments/assets/e35f7fb4-e47b-4cfe-b74a-0da0f8521750) | ![Image](https://github.com/user-attachments/assets/a8e3ebf5-521d-4098-a2ff-1e67329bffe5) |![Image](https://github.com/user-attachments/assets/6a029a84-fada-418c-98d0-c47504f426eb)
+
+---
+
 ## Technical Details
 - **Language**: Kotlin
 - **UI Framework**: XML-based UI with RecyclerView
